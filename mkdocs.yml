@@ -1,0 +1,13 @@
+site_name: E-LUDIK Developer Docs
+site_description: Документация разработчика для проекта E-LUDIK
+site_author: E-LUDIK Team
+nav:
+  - Главная: index.md
+  - Модуль app: app_module.md
+  - Шаблоны views: views_package.md
+  - База данных: database.md
+theme:
+  name: readthedocs
+  language: ru
+extra:
+  generator: mkdocs
